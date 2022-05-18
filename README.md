@@ -39,7 +39,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sathizh&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathizh&" alt="sathizh" /></p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathizh&" alt="sathizh" /></p>
 
 <h3 style="text-align:center;"> 🤝🏻 &nbsp;Connect with Me </h3>
 
