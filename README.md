@@ -34,7 +34,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sathizh&show_icons=true&locale=en" alt="sathizh" /></p> -->
 <p>
 <a href="#">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sathizh&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sathizh&show_icons=true&theme=radical&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sathizh&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
