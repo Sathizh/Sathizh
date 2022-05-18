@@ -14,7 +14,7 @@
 - 📄 Know about my experiences [https://sathizh.netlify.app/CV/Sathish_M.pdf](https://sathizh.netlify.app/CV/Sathish_M.pdf)
   </p>
   
-<p align="right">![aboutus](https://user-images.githubusercontent.com/53282536/169041017-a090d79a-84d1-446a-ba06-dbe6feecd7d6.gif)
+<p align="right"><img src="https://user-images.githubusercontent.com/53282536/169041017-a090d79a-84d1-446a-ba06-dbe6feecd7d6.gif" alt="..."   />
  </p>
 
 
