@@ -11,6 +11,11 @@
 
 - 📫 How to reach me **sathizh20@gmail.com**
 
+- 📄 Know about my experiences [https://sathizh.netlify.app/CV/Sathish_M.pdf](https://sathizh.netlify.app/CV/Sathish_M.pdf)
+
+![1584023795](https://user-images.githubusercontent.com/53282536/169039836-22841e24-76fb-4a6c-a82f-2458e27ddb4b.gif)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sathizh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sathizh" height="30" width="40" /></a>
