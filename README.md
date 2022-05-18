@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sathish M</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate web developer from India</h3>
   
 <!-- <p align="center"><img src="https://user-images.githubusercontent.com/53282536/169042147-bf2563c3-ea26-4930-8981-1f0fbb7d8286.gif" alt="..."   />
  </p> -->
