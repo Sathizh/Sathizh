@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sathizh&label=Profile%20views&color=0e75b6&style=flat" alt="sathizh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sathizh" alt="sathizh" /></a> </p>
-
+<p align="left">
 - 🌱 I’m currently learning **Node JS**
 
 - 👨‍💻 All of my projects are available at [https://sathizh.netlify.app/](https://sathizh.netlify.app/)
@@ -12,8 +12,10 @@
 - 📫 How to reach me **sathizh20@gmail.com**
 
 - 📄 Know about my experiences [https://sathizh.netlify.app/CV/Sathish_M.pdf](https://sathizh.netlify.app/CV/Sathish_M.pdf)
-
-<img align="center" href="https://user-images.githubusercontent.com/53282536/169040314-1b3d7dce-218e-4a27-ab1a-44dcf60ff799.gif" />
+  </p>
+  
+<p align="right">![aboutus](https://user-images.githubusercontent.com/53282536/169041017-a090d79a-84d1-446a-ba06-dbe6feecd7d6.gif)
+ </p>
 
 
 <h3 align="left">Connect with me:</h3>
