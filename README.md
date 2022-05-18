@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://sathizh.netlify.app/CV/Sathish_M.pdf](https://sathizh.netlify.app/CV/Sathish_M.pdf)
 
-![1584023795](https://user-images.githubusercontent.com/53282536/169039836-22841e24-76fb-4a6c-a82f-2458e27ddb4b.gif)
+<div align="center">![aboutus](https://user-images.githubusercontent.com/53282536/169040314-1b3d7dce-218e-4a27-ab1a-44dcf60ff799.gif)</div>
 
 
 <h3 align="left">Connect with me:</h3>
