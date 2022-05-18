@@ -37,9 +37,9 @@
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=sathizh&show_icons=true&locale=en&theme=radical&layout=compact" alt="sathizh" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sathizh&theme=radical&layout=compact&exclude_lang=java+r" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sathizh&" alt="sathizh" />
 </a>
 </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathizh&" alt="sathizh" /></p>
 
 <h3 style="text-align:center;"> 🤝🏻 &nbsp;Connect with Me </h3>
 
