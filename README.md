@@ -102,9 +102,9 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a>&emsp;
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
+<!--   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="35" height="35"/> 
-  </a>    
+  </a>     -->
 </p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sathizh&show_icons=true&locale=en&layout=compact" alt="sathizh" /></p>
