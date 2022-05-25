@@ -15,8 +15,8 @@
 - 📄 Know about my experiences [Resume](https://sathizh.netlify.app/CV/Sathish_M.pdf)
 
 - Live Project Link  
-      - [Drag And Drop](https://sathizh-dragdrop.netlify.app/)
-      - [Gmail Dashboard UI Clone](https://sathizh-gmail-clone.netlify.app/)
+      - [Drag And Drop](https://sathizh-dragdrop.netlify.app/) <br>
+      - [Gmail Dashboard UI Clone Using Tailwondcss](https://sathizh-gmail-clone.netlify.app/)
 
 
 
