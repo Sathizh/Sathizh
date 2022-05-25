@@ -15,7 +15,7 @@
 - 📄 Know about my experiences [Resume](https://sathizh.netlify.app/CV/Sathish_M.pdf)
 
 - Live Project Link  
-      - [Drag And Drop](https://sathizh-dragdrop.netlify.app/CV/Sathish_M.pdf)
+      - [Drag And Drop](https://sathizh-dragdrop.netlify.app/)
 
 
 
