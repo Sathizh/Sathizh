@@ -12,10 +12,10 @@
 
 - 📫 How to reach me **sathizh20@gmail.com**
 
-- 📄 Know about my experiences [https://sathizh.netlify.app/CV/Sathish_M.pdf](Resume)
+- 📄 Know about my experiences [Resume](https://sathizh.netlify.app/CV/Sathish_M.pdf)
 
 - Live Project Link  
-      - Drag and Drop  [https://sathizh-dragdrop.netlify.app/CV/Sathish_M.pdf](Link)
+      - [Drag And Drop](https://sathizh-dragdrop.netlify.app/CV/Sathish_M.pdf)
 
 
 
