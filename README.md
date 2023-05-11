@@ -16,7 +16,7 @@
 
 - Live Project Link  
       - [Drag And Drop](https://sathizh-dragdrop.netlify.app/) <br>
-      - [Gmail Dashboard UI Clone Using Tailwondcss](https://sathizh-gmail-clone.netlify.app/)
+      - [Gmail Dashboard UI Clone Using Tailwondcss](https://sathizh-gmail-clone.netlify.app/)<br>
       - [Clock using Pure CSS](https://sztime.netlify.app/)
 
 
